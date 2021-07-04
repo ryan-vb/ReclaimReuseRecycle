@@ -8,10 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Reflection.AssemblyTitle("ReclaimReuseRecycle")]
-[assembly: System.Reflection.AssemblyCopyright("Copyright © DoctorVanGogh 2017")]
 [assembly: System.Runtime.InteropServices.ComVisible(false)]
+[assembly: System.Reflection.AssemblyCopyright("Copyright © DoctorVanGogh 2017")]
+[assembly: System.Reflection.AssemblyVersion("1.7.0.231")]
+[assembly: System.Reflection.AssemblyTitle("ReclaimReuseRecycle")]
 [assembly: System.Runtime.InteropServices.Guid("1ac8c55d-c840-4adf-be16-2f5ef3f3a601")]
-[assembly: System.Reflection.AssemblyVersion("1.7.0.223")]
 
 

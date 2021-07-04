@@ -1,3 +1,4 @@
 .git* export-ignore
 Source/ export-ignore
 v1.1/Assemblies/0Harmony.dll export-ignore
+v1.2/Assemblies/0Harmony.dll export-ignore
