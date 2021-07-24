@@ -3,6 +3,7 @@
     <RimworldManagedDir10>$(SolutionDir)\..\..\Lib\1.0\RimWorldWin64_Data\Managed\</RimworldManagedDir10>
     <RimworldManagedDir11>$(SolutionDir)\..\..\Lib\1.1\RimWorldWin64_Data\Managed\</RimworldManagedDir11>
     <RimworldManagedDir12>$(SolutionDir)\..\..\Lib\1.2\RimWorldWin64_Data\Managed\</RimworldManagedDir12>
+	<RimworldManagedDir13>$(SolutionDir)\..\..\Lib\1.3\RimWorldWin64_Data\Managed\</RimworldManagedDir13>
   </PropertyGroup>
 
   <!-- TODO: maybe later introduce auto path selection based on OS (Condition - see stackoverflow.com/questions/43499222) -->
